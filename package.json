@@ -1,0 +1,22 @@
+{
+  "name": "fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliveirakennedyjoao/javascript-fundamentals.git"
+  },
+  "author": "João Kennedy Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oliveirakennedyjoao/javascript-fundamentals/issues"
+  },
+  "homepage": "https://github.com/oliveirakennedyjoao/javascript-fundamentals#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
