@@ -7,7 +7,6 @@ if (Math.random() > 0.5) {
 console.log(x);
 
 function foo() {
-  const name = "some text goes here";
   let counter = 0;
   return function print_something() {
     console.log(counter);
